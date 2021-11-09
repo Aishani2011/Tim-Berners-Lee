@@ -115,3 +115,18 @@ p {
     
     background-color: cadetblue;
 }
+
+a {
+    
+    text-decoration: none;
+}
+
+.article:hover {
+    
+    color:aquamarine;
+}
+
+html {
+    
+    scroll-behavior: smooth;
+}
